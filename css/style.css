@@ -64,7 +64,7 @@ body {
   cursor: pointer;
 }
 
-.button-style:hover {
+.button-style:active {
   background: #F2994A;
   color: #ffff;
 }
